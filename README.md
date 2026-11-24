@@ -9,4 +9,6 @@ Code quality: code review, static analysis, quality gates
 Tech stack
 Backend & Integration: C#, .NET, ASP.NET Core, REST, RabbitMQ, NServiceBus, MQTT, Modbus Data: PostgreSQL, SQL Server, Entity Framework, Dapper, ADO.NET Tools: Git, Docker, GitHub Actions, SonarQube, Postman Additional: Vue.js, TypeScript/JavaScript, WPF
 
+Trust me, I'm an engineer!
+
 Current work repo: https://github.com/Ledrunning/
